@@ -4,6 +4,7 @@
 }
 .margin2{
     margin: 0px 70px 10px 70px;
+    
 }
 
 .img1{
@@ -17,3 +18,8 @@
 hr.style1{
 	border-top: 1px solid #302e2e;
 }
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+}   
