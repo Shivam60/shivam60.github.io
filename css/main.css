@@ -1,0 +1,19 @@
+.margin1{
+    margin: 30px 70px 0px 70px;
+    padding: 100px 10px 400px 10px;
+}
+.margin2{
+    margin: 0px 70px 10px 70px;
+}
+
+.img1{
+    padding: 0px 0px 0px 70px;    
+}
+.basic{
+
+    width: 70%;
+
+}
+hr.style1{
+	border-top: 1px solid #302e2e;
+}
